@@ -32,6 +32,6 @@ Using the code and model mentioned, you can test your custom dataset to get the 
 ## Authors
 
 [Prince Nileshbhai Butani](https://www.linkedin.com/in/princebutani/), [Jaya Sreevalsan-Nair](https://www.linkedin.com/in/jayanair/) and Nilay Kamat
-## Acknowledgements
+## Acknowledgment
 
 The authors are grateful to IIIT Bangalore [IIIT-B](https://iiitb.ac.in/) to the Graphic Visualization and Computing Lab ([GVCL](https://www.iiitb.ac.in/GVCL/)) at IIIT-B, for their constant support.
